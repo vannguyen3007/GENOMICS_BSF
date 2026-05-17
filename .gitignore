@@ -1,0 +1,9 @@
+*.vcf
+*.vcf.gz
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.sra
+*.html
